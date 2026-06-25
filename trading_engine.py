@@ -13,7 +13,7 @@ class TradingEngine:
         self.tp_points = 200
         self.sl_points = 100
 
-        self.max_trades = 3
+        self.max_trades = 5
         self.cooldown = 10
         self.last_trade_time = 0
 
